@@ -1,4 +1,5 @@
-![Image description](https://public.tableau.com/views/Airbnbinsights_17242138803210/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+tableau public dashboard
+(https://public.tableau.com/views/Airbnbinsights_17242138803210/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Airbnb Data README
 This dataset contains various Airbnb data, including:
